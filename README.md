@@ -52,8 +52,8 @@ Please check if a topic about your issue already exists!
 
 ## Links
 
-[Github Repository](https://github.com/CZ-RBelo/Edx-Bootcamp-Module-01-HTML-CSS-Git-Challenge.git)
-[Deployed Application](https://cz-rbelo.github.io/Edx-Bootcamp-Module-01-HTML-CSS-Git-Challenge/)
+*[Github Repository](https://github.com/CZ-RBelo/Edx-Bootcamp-Module-01-HTML-CSS-Git-Challenge.git)
+*[Deployed Application](https://cz-rbelo.github.io/Edx-Bootcamp-Module-01-HTML-CSS-Git-Challenge/)
 
 ## Credits
 
@@ -62,9 +62,9 @@ Please check if a topic about your issue already exists!
 
 If you require any further information, feel free to contact me at:
  
-Github Profile: [CZ-RBELO](https://github.com/CZ-RBelo/)  
-Email: [JR Belo](mailto:jr.belo@hotmail.com)
-LinkedIn: [Rui Belo](https://linkedin.com/in/ruibelo)
+*Github Profile: [CZ-RBELO](https://github.com/CZ-RBelo/)  
+*Email: [JR Belo](mailto:jr.belo@hotmail.com)
+*LinkedIn: [Rui Belo](https://linkedin.com/in/ruibelo)
 
 ## License
 Licensed under the [MIT license](/LICENSE)
