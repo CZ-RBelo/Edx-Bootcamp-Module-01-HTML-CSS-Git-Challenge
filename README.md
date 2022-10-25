@@ -1,5 +1,3 @@
-# 01 HTML CSS Git: Code Refactor
-
 ## Table of Contents
 
 * [The repository](#repository)
@@ -10,6 +8,7 @@
 * [License](#license)
 
 ## Repository
+
 This repository ("Edx-Bootcamp-Module-01-HTML-CSS-Git-Challenge") is part of the challenge proposed in Module 01 of the Bootcamp UK Web Front End Developer Course.
 The project aims to rectify the code base of a marketing agency's website so that it follows accessibility standards and is optimized for search engines (SEO).
 
@@ -34,9 +33,22 @@ The footer is where the copyright is found.
 
 ## Contributing
 
-## Installation
+Why you should contribute to an open-source project?
+Contributing to open-source is a rewarding way to learn, teach, and build experience in just about any skill.
+You don’t have to contribute code, there’s always a task for you on an open-source project.
+Besides coding, you can contribute to user interface design, graphic design, writing, or organizing.
+
+Ways you can contribute:
+
+* [Submit bugs and feature requests](https://github.com/CZ-RBelo/Edx-Bootcamp-Module-01-HTML-CSS-Git-Challenge/issues)
+* [Review source code changes](https://github.com/CZ-RBelo/Edx-Bootcamp-Module-01-HTML-CSS-Git-Challenge/pulls)
+
+# Spell check errors
+Pull requests that fix spell-check errors are welcomed.
+If you want to give feedback or report an issue, please create a [new GitHub issue](https://github.com/CZ-RBelo/Edx-Bootcamp-Module-01-HTML-CSS-Git-Challenge/issues/new). 
+Please check if a topic about your issue already exists!
 
 ## Credits
 
 ## License
-Licensed under the MIT license.
+Licensed under the [MIT license](/LICENSE)
