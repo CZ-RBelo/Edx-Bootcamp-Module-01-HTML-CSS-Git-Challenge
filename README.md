@@ -49,8 +49,9 @@ Besides coding, you can contribute to user interface design, graphic design, wri
 
 Ways you can contribute:
 
-* [Submit bugs and feature requests](https://github.com/CZ-RBelo/Edx-Bootcamp-Module-01-HTML-CSS-Git-Challenge/issues){:target="_blank"}
-* [Review source code changes](https://external.ink?to=/github.com/CZ-RBelo/Edx-Bootcamp-Module-01-HTML-CSS-Git-Challenge/pulls)
+* [Submit bugs and feature requests](https://github.com/CZ-RBelo/Edx-Bootcamp-Module-01-HTML-CSS-Git-Challenge/issues)
+* <a href="https://github.com/CZ-RBelo/Edx-Bootcamp-Module-01-HTML-CSS-Git-Challenge/issues" target="_blank">Submit bugs and feature requests</a>
+* [Review source code changes](https://github.com/CZ-RBelo/Edx-Bootcamp-Module-01-HTML-CSS-Git-Challenge/pulls)
 
 > **Spell check errors**  
 >Pull requests that fix spell-check errors are welcomed.  
