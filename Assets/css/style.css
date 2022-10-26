@@ -1,38 +1,29 @@
+/* CSS Horiseon Website */
+
 /* CSS reset */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;    
 }
+
+/* Body background color */
 body {
     background-color: #d9dcd6;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
+/* 
+Header styles
+*/
 
-p {
-    font-size: 16px;
-}
-/* Header attributes */
+/* Header Element attributes */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
-.header h1 {
-    display: inline-block;
-    font-size: 48px;
-}
-
-.header h1 .seo {
-    color: #d9dcd6;
-}
-
+/* Header section styles */
 .header section {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,20 +31,21 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/* Ebd header attributes */
-
-/* Header unordered list attributes */
+/* Header section unordered list attributes */
 .header section ul {
     list-style-type: none;
 }
-
+/* Header section unordered list link attributes */
 .header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/* End Header unordered list attributes */
 
-/* Navigation class attributes*/
+/* 
+Navigation styles
+*/
+
+/* Navigation Element styles */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,25 +53,18 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* End of Navigation Class attributes*/
 
-/* Content section articles attributes*/
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
+/* 
+Section Content styles
+*/
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/* Content section articles styles*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Content section articles attributes*/
 .content-section-articles {
     margin-bottom: 20px;
     padding: 50px;
@@ -88,16 +73,24 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Content section articles image attributes*/
 .content-section-articles img {
     max-height: 200px;
 }
-
-.content-section-articles h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+/* set image floating on the left  */
+.float-left {
+    float: left;
+    margin-right: 25px;
 }
-/* End of Content section articles attributes*/
+/* set image floating on the right  */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* 
+Aside styles
+*/
 
 /* Benefits aside sections attributes*/
 .benefits {
@@ -110,29 +103,70 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Benefits Section Styles*/
 .benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-section h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
+/* Benefits Image attributes*/
 .benefit-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/* End of Benefits aside sections attributes*/
+
+/* 
+Footer Styles 
+*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
+
+
+/* Typography CSS */
+
+/* Links color */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+/* Paragraph font size */
+p {
+    font-size: 16px;
+}
+
+/* h1 styles */
+
+/* Header h1 */
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+/* Header h1 ID Seo*/
+.header h1 .seo {
+    color: #d9dcd6;
+}
+
+/* h2 styles */
+
+/* Content section articles h2 styles*/
+.content-section-articles h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Footer h2 styles*/
 .footer h2 {
     font-size: 20px;
+}
+
+/* h3 styles */
+
+.benefit-section h3 {
+    margin-bottom: 10px;
+    text-align: center;
 }
