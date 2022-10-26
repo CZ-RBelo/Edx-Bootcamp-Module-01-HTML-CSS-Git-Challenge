@@ -4,6 +4,7 @@
 
 * [The repository](#repository)
 * [Project description](#description)
+* [Mock-Up](#mock-Up)
 * [Contributing](#contributing)
 * [Links](#links)
 * [Credits](#credits)
@@ -16,7 +17,7 @@ The project aims to rectify the code base of a marketing agency's website so tha
 
 ### Description
 
-The Horizon marketing agency website is divided into five elements:
+The Horiseon marketing agency website is divided into five elements:
 
 **Header**
 Includes a navigation bar with the brand name on the left and a link pointing to the Home Page, and on the right side are the Search Engine Optimization, Online Reputation Management, and Social Media Marketing links pointing to the respective sections on the website.
@@ -32,6 +33,12 @@ On the right side with three sections, Lead Generation, Brand Awareness, and Cos
 
 **Footer**
 The footer is where the copyright is found.
+
+### Mock-Up
+
+You can check the Horiseon web page appearance in the image below:
+
+![Mock up Horiseon web page](/Assets/Mock-up-Horiseon-web-page.png)
 
 ### Contributing
 
