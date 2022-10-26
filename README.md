@@ -64,7 +64,7 @@ Ways you can contribute:
 
 ### Credits
 
-[Hazim ElHalabi](git) contributed to my Challenge in a huge way, when he helped me build, and deploy the Github website.
+**Hazim ElHalabi** contributed to my Challenge in a huge way, when he helped me build, and deploy the Github website.
 
 ### Contacts
 
