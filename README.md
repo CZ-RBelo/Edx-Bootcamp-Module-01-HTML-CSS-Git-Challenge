@@ -53,9 +53,9 @@ Ways you can contribute:
 * [Review source code changes](https://github.com/CZ-RBelo/Edx-Bootcamp-Module-01-HTML-CSS-Git-Challenge/pulls)
 
 > ### Spell check errors
-Pull requests that fix spell-check errors are welcomed.  
-If you want to give feedback or report an issue, please create a [new GitHub issue](https://github.com/CZ-RBelo/Edx-Bootcamp-Module-01-HTML-CSS-Git-Challenge/issues/new).  
-**Please check if a topic about your issue already exists!**
+>Pull requests that fix spell-check errors are welcomed.  
+>If you want to give feedback or report an issue, please create a [new GitHub issue](https://github.com/CZ-RBelo/Edx-Bootcamp-Module-01-HTML-CSS-Git-Challenge/issues/new).  
+>**Please check if a topic about your issue already exists!**
 
 ### Links
 
